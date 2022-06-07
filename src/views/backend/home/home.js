@@ -17,19 +17,19 @@ import fav4 from '../../../assets/images/favorite/04.png'
 import fav5 from '../../../assets/images/favorite/05.jpg'
 
 // upcoming img
-import upcoming1 from '../../../assets/images/upcoming/01.png'
-import upcoming2 from '../../../assets/images/upcoming/02.png'
-import upcoming3 from '../../../assets/images/upcoming/03.png'
-import upcoming4 from '../../../assets/images/upcoming/04.png'
-import upcoming5 from '../../../assets/images/upcoming/05.png'
+import upcoming1 from '../../../assets/images/upcoming/01.jpg'
+import upcoming2 from '../../../assets/images/upcoming/02.jpg'
+import upcoming3 from '../../../assets/images/upcoming/03.jpg'
+import upcoming4 from '../../../assets/images/upcoming/04.jpg'
+import upcoming5 from '../../../assets/images/upcoming/05.jpg'
 
 
 // suggested
-import suggested1 from '../../../assets/images/suggested/01.png'
-import suggested2 from '../../../assets/images/suggested/02.png'
-import suggested3 from '../../../assets/images/suggested/03.png'
-import suggested4 from '../../../assets/images/suggested/04.png'
-import suggested5 from '../../../assets/images/suggested/05.png'
+import suggested1 from '../../../assets/images/suggested/01.jpg'
+import suggested2 from '../../../assets/images/suggested/02.jpg'
+import suggested3 from '../../../assets/images/suggested/03.jpg'
+import suggested4 from '../../../assets/images/suggested/04.jpg'
+import suggested5 from '../../../assets/images/suggested/05.jpg'
 
 // parallax
 import parallax3 from '../../../assets/images/parallax/p1.jpg'
