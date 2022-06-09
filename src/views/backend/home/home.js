@@ -298,7 +298,7 @@ const Homepage =()=>{
                                     <img src={logo} className="c-logo" alt="streamit"/>
                                  </div>
                               </Link>
-                              <h1 className="slider-text big-title title text-uppercase" data-iq-gsap="onStart" data-iq-position-x="-200">sail coaster</h1>
+                              <h1 className="slider-text big-title title text-uppercase" data-iq-gsap="onStart" data-iq-position-x="-200">Omega Gospel Tv</h1>
                               <div className="d-flex flex-wrap align-items-center animated" >
                                  <div className="slider-ratting d-flex align-items-center mr-4 mt-2 mt-md-3"  data-iq-gsap="onStart" data-iq-position-x="-200" data-iq-delay="-0.5">
                                     <ul className="ratting-start p-0 m-0 list-inline text-primary d-flex align-items-center justify-content-left">
@@ -322,7 +322,7 @@ const Homepage =()=>{
                                  </div>
                                  <div className="d-flex align-items-center mt-2 mt-md-3" data-iq-gsap="onStart" data-iq-position-x="-200" data-iq-delay="-0.5">
                                     <span className="badge badge-secondary p-2">16+</span>
-                                    <span className="ml-3">2h 40m</span>
+                                    <span className="ml-3">40m</span>
                                  </div>
                               </div>
                               <p data-iq-gsap="onStart" data-iq-position-y="80" data-iq-delay="0.8">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
