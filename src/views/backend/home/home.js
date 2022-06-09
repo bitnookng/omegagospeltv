@@ -517,7 +517,7 @@ const Homepage =()=>{
                                        <h6 className="iq-title"><Link to="/show-details">Koinonia</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">7+</div>
-                                          <span className="text-white">Mesage</span>
+                                          <span className="text-white">Messages</span>
                                        </div>
                                        <div className="hover-buttons">
                                           <Link to="/show-details" role="button" className="btn btn-hover iq-button"><i className="fa fa-play mr-1" aria-hidden="true"></i>
@@ -598,7 +598,7 @@ const Homepage =()=>{
                                        <h6 className="iq-title"><Link to="/show-details">Dino Land</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">18+</div>
-                                          <span className="text-white">3 Seasons</span>
+                                          <span className="text-white">Messages</span>
                                        </div>
                                        <div className="hover-buttons">
                                           <Link to="/show-details" role="button" className="btn btn-hover iq-button">
@@ -988,7 +988,7 @@ const Homepage =()=>{
                                        <h6 className="iq-title"><Link to="/show-details">Daily Devotional</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">9+</div>
-                                          <span className="text-white">Mesage</span>
+                                          <span className="text-white">Messages</span>
                                        </div>
                                        <div className="hover-buttons">
                                           <Link to="/show-details" role="button" className="btn btn-hover iq-button">
@@ -1319,7 +1319,7 @@ const Homepage =()=>{
                                                 <h1 className="trending-text big-title text-uppercase">Omega Gospel Tv</h1>
                                                 <div className="d-flex align-items-center text-white text-detail">
                                                    <span className="badge badge-secondary p-3">18+</span>
-                                                   <span className="ml-3">3 Seasons</span>
+                                                   <span className="ml-3">Messages</span>
                                                    <span className="trending-year">2020</span>
                                                 </div>
                                                 <div className="d-flex align-items-center series mb-4">
@@ -1359,7 +1359,7 @@ const Homepage =()=>{
                                                 <h1 className="trending-text big-title text-uppercase">Omega Gospel Tv</h1>
                                                 <div className="d-flex align-items-center text-white text-detail mb-4">
                                                    <span className="season_date ml-2">
-                                                      Mesage
+                                                      Messages
                                                    </span>
                                                    <span className="trending-year">Feb 2019</span>
                                                 </div>
@@ -1809,7 +1809,7 @@ const Homepage =()=>{
                                                 <h1 className="trending-text big-title text-uppercase">The Appartment</h1>
                                                 <div className="d-flex align-items-center text-white text-detail">
                                                    <span className="badge badge-secondary p-3">15+</span>
-                                                   <span className="ml-3">Mesage</span>
+                                                   <span className="ml-3">Messages</span>
                                                    <span className="trending-year">2020</span>
                                                 </div>
                                                 <div className="d-flex align-items-center series mb-4">
@@ -1855,7 +1855,7 @@ const Homepage =()=>{
                                                 <h1 className="trending-text big-title text-uppercase">The Appartment</h1>
                                                 <div className="d-flex align-items-center text-white text-detail mb-4">
                                                    <span className="season_date ml-2">
-                                                      Mesage
+                                                      Messages
                                                    </span>
                                                       <span className="trending-year">Feb 2019</span>
                                                 </div>
@@ -2319,7 +2319,7 @@ const Homepage =()=>{
                                                 <h1 className="trending-text big-title text-uppercase ">the marshal king</h1>
                                                 <div className="d-flex align-items-center text-white text-detail">
                                                    <span className="badge badge-secondary p-3">11+</span>
-                                                   <span className="ml-3">3 Seasons</span>
+                                                   <span className="ml-3">Messages</span>
                                                    <span className="trending-year">2020</span>
                                                 </div>
                                                 <div className="d-flex align-items-center series mb-4">
@@ -2368,7 +2368,7 @@ const Homepage =()=>{
                                                 <h1 className="trending-text big-title text-uppercase">the marshal king</h1>
                                                 <div className="d-flex align-items-center text-white text-detail mb-4">
                                                    <span className="season_date ml-2">
-                                                      Mesage
+                                                      Messages
                                                    </span>
                                                       <span className="trending-year">Feb 2019</span>
                                                 </div>
@@ -2885,7 +2885,7 @@ const Homepage =()=>{
                                                 <h1 className="trending-text big-title text-uppercase">Dark Zone</h1>
                                                 <div className="d-flex align-items-center text-white text-detail mb-4">
                                                    <span className="season_date ml-2">
-                                                      Mesage
+                                                      Messages
                                                    </span>
                                                    <span className="trending-year">Feb 2019</span>
                                                 </div>
@@ -3356,7 +3356,7 @@ const Homepage =()=>{
                                                 <h1 className="trending-text big-title text-uppercase">Opposites Attract</h1>
                                                 <div className="d-flex align-items-center text-white text-detail">
                                                    <span className="badge badge-secondary p-3">7+</span>
-                                                   <span className="ml-3">Mesage</span>
+                                                   <span className="ml-3">Messages</span>
                                                    <span className="trending-year">2020</span>
                                                 </div>
                                                 <div className="d-flex align-items-center series mb-4">
@@ -3403,7 +3403,7 @@ const Homepage =()=>{
                                                 <h1 className="trending-text big-title text-uppercase">Opposites Attract</h1>
                                                 <div className="d-flex align-items-center text-white text-detail mb-4">
                                                    <span className="season_date ml-2">
-                                                      Mesage
+                                                      Messages
                                                    </span>
                                                    <span className="trending-year">Feb 2019</span>
                                                 </div>
@@ -3875,7 +3875,7 @@ const Homepage =()=>{
                                                 <h1 className="trending-text big-title text-uppercase">Fire Storm</h1>
                                                 <div className="d-flex align-items-center text-white text-detail">
                                                    <span className="badge badge-secondary p-3">17+</span>
-                                                   <span className="ml-3">Mesage</span>
+                                                   <span className="ml-3">Messages</span>
                                                    <span className="trending-year">2020</span>
                                                 </div>
                                                 <div className="d-flex align-items-center series mb-4">
@@ -3924,7 +3924,7 @@ const Homepage =()=>{
                                                 <h1 className="trending-text big-title text-uppercase">Fire Storm</h1>
                                                 <div className="d-flex align-items-center text-white text-detail mb-4">
                                                    <span className="season_date ml-2">
-                                                      Mesage
+                                                      Messages
                                                    </span>
                                                    <span className="trending-year">Feb 2019</span>
                                                 </div>
@@ -4405,7 +4405,7 @@ const Homepage =()=>{
                                        <h6 className="iq-title"><Link to="/show-details">Day of Darkness</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">15+</div>
-                                          <span className="text-white">Mesage</span>
+                                          <span className="text-white">Messages</span>
                                        </div>
                                        <div className="hover-buttons">
                                           <Link to="/show-details" role="button" className="btn btn-hover iq-button">
@@ -4445,7 +4445,7 @@ const Homepage =()=>{
                                        <h6 className="iq-title"><Link to="/show-details">My True Friends</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">7+</div>
-                                          <span className="text-white">Mesage</span>
+                                          <span className="text-white">Messages</span>
                                        </div>
                                        <div className="hover-buttons">
                                           <Link to="/show-details" role="button" className="btn btn-hover iq-button">
@@ -4486,7 +4486,7 @@ const Homepage =()=>{
                                        <h6 className="iq-title"><Link to="/show-details">Arrival 1999</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">11+</div>
-                                          <span className="text-white">3 Seasons</span>
+                                          <span className="text-white">Messages</span>
                                        </div>
                                        <div className="hover-buttons">
                                           <Link to="/show-details" role="button" className="btn btn-hover iq-button">
@@ -4527,7 +4527,7 @@ const Homepage =()=>{
                                        <h6 className="iq-title"><Link to="/show-details">Night Mare</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">18+</div>
-                                          <span className="text-white">3 Seasons</span>
+                                          <span className="text-white">Messages</span>
                                        </div>
                                        <div className="hover-buttons">
                                           <Link to="/show-details" role="button" className="btn btn-hover iq-button">

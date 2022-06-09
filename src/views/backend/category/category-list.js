@@ -44,7 +44,7 @@ const CategoryList = () => {
                                     <h4 className="text-white mb-1">Omega Gospel Tv</h4>
                                     <div className="movie-time d-flex align-items-center">
                                         <div className="badge badge-secondary p-1 mr-2">18+</div>
-                                        <span className="text-white">3 Seasons</span>
+                                        <span className="text-white">Messages</span>
                                     </div>
                                 </div>
                             </div>
@@ -72,7 +72,7 @@ const CategoryList = () => {
                                     <h4 className="text-white mb-1">The Marshal King</h4>
                                     <div className="movie-time d-flex align-items-center">
                                         <div className="badge badge-secondary p-1 mr-2">11+</div>
-                                        <span className="text-white">3 Seasons</span>
+                                        <span className="text-white">Messages</span>
                                     </div>
                                 </div>
                             </div>
@@ -134,7 +134,7 @@ const CategoryList = () => {
                                                     <h6 className="iq-title"><Link to="/movie-details">Day of Darkness</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">15+</div>
-                                                        <span className="text-white">Mesage</span>
+                                                        <span className="text-white">Messages</span>
                                                     </div>
                                                     <div className="hover-buttons">
                                                         <Link to="/movie-details" role="button" className="btn btn-hover"><i className="fa fa-play mr-1" aria-hidden="true"></i>
@@ -172,7 +172,7 @@ const CategoryList = () => {
                                                     <h6 className="iq-title"><Link to="/movie-details">My True Friends</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">7+</div>
-                                                        <span className="text-white">Mesage</span>
+                                                        <span className="text-white">Messages</span>
                                                     </div>
                                                     <div className="hover-buttons">
                                                         <Link to="/movie-details" role="button" className="btn btn-hover"><i className="fa fa-play mr-1" aria-hidden="true"></i>
@@ -210,7 +210,7 @@ const CategoryList = () => {
                                                     <h6 className="iq-title"><Link to="/movie-details">Arrival 1999</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">11+</div>
-                                                        <span className="text-white">3 Seasons</span>
+                                                        <span className="text-white">Messages</span>
                                                     </div>
                                                     <div className="hover-buttons">
                                                         <Link to="/movie-details" role="button" className="btn btn-hover"><i className="fa fa-play mr-1" aria-hidden="true"></i>
@@ -248,7 +248,7 @@ const CategoryList = () => {
                                                     <h6 className="iq-title"><Link to="/movie-details">Night Mare</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">18+</div>
-                                                        <span className="text-white">3 Seasons</span>
+                                                        <span className="text-white">Messages</span>
                                                     </div>
                                                     <div className="hover-buttons">
                                                         <Link to="/movie-details" role="button" className="btn btn-hover"><i className="fa fa-play mr-1" aria-hidden="true"></i>
@@ -355,7 +355,7 @@ const CategoryList = () => {
                                                     <h6 className="iq-title"><Link to="/movie-details">Last Track</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">19+</div>
-                                                        <span className="text-white">3 Seasons</span>
+                                                        <span className="text-white">Messages</span>
                                                     </div>
                                                     <div className="hover-buttons">
                                                         <Link to="/movie-details" role="button" className="btn btn-hover"><i className="fa fa-play mr-1" aria-hidden="true"></i>
@@ -393,7 +393,7 @@ const CategoryList = () => {
                                                     <h6 className="iq-title"><Link to="/movie-details">Dino Land</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">9+</div>
-                                                        <span className="text-white">Mesage</span>
+                                                        <span className="text-white">Messages</span>
                                                     </div>
                                                     <div className="hover-buttons">
                                                         <Link to="/movie-details" role="button" className="btn btn-hover"><i className="fa fa-play mr-1" aria-hidden="true"></i>
@@ -431,7 +431,7 @@ const CategoryList = () => {
                                                     <h6 className="iq-title"><Link to="/movie-details">Mission Moon</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">18+</div>
-                                                        <span className="text-white">3 Seasons</span>
+                                                        <span className="text-white">Messages</span>
                                                     </div>
                                                     <div className="hover-buttons">
                                                         <Link to="/movie-details" role="button" className="btn btn-hover"><i className="fa fa-play mr-1" aria-hidden="true"></i>
@@ -469,7 +469,7 @@ const CategoryList = () => {
                                                     <h6 className="iq-title"><Link to="/movie-details">Arrival 1999</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">11+</div>
-                                                        <span className="text-white">3 Seasons</span>
+                                                        <span className="text-white">Messages</span>
                                                     </div>
                                                     <div className="hover-buttons">
                                                         <Link to="/movie-details" role="button" className="btn btn-hover"><i className="fa fa-play mr-1" aria-hidden="true"></i>
@@ -576,7 +576,7 @@ const CategoryList = () => {
                                                     <h6 className="iq-title"><Link to="/movie-details">Day of Darkness</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">15+</div>
-                                                        <span className="text-white">Mesage</span>
+                                                        <span className="text-white">Messages</span>
                                                     </div>
                                                     <div className="hover-buttons">
                                                         <Link to="/movie-details" role="button" className="btn btn-hover">
@@ -614,7 +614,7 @@ const CategoryList = () => {
                                                     <h6 className="iq-title"><Link to="/movie-details">Mission Moon</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">18+</div>
-                                                        <span className="text-white">3 Seasons</span>
+                                                        <span className="text-white">Messages</span>
                                                     </div>
                                                     <div className="hover-buttons">
                                                         <Link to="/movie-details" role="button" className="btn btn-hover"><i className="fa fa-play mr-1" aria-hidden="true"></i>
@@ -690,7 +690,7 @@ const CategoryList = () => {
                                                     <h6 className="iq-title"><Link to="/movie-details">Knight Mare</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">18+</div>
-                                                        <span className="text-white">3 Seasons</span>
+                                                        <span className="text-white">Messages</span>
                                                     </div>
                                                     <div className="hover-buttons">
                                                         <Link to="/movie-details" role="button" className="btn btn-hover"><i className="fa fa-play mr-1" aria-hidden="true"></i>
