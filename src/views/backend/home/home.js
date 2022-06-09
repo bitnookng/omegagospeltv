@@ -246,21 +246,21 @@ const Homepage =()=>{
                                     <span className="text-white ml-2">4.7(lmdb)</span>
                                  </div>
                                  <div className="d-flex align-items-center mt-2 mt-md-3" data-iq-gsap="onStart" data-iq-position-x="-200" data-iq-delay="-0.5">
-                                    <span className="badge badge-secondary p-2">18+</span>
-                                    <span className="ml-3">2 Seasons</span>
+                                    <span className="badge badge-secondary p-2">Truth On Air </span>
+                                    <span className="ml-3">Sermons</span>
                                  </div>
-                                 <p data-iq-gsap="onStart" data-iq-position-y="80" data-iq-delay="0.8">Guarding your heart with all deligent
+                                 <p data-iq-gsap="onStart" data-iq-position-y="80" data-iq-delay="0.8">2022
                                  </p>
                               </div>
                               <div className="trending-list" data-wp_object-in="fadeInUp" data-delay-in="1.2">
                                  <div className="text-primary title starring">
-                                    Starring: <span className="text-body">Karen Gilchrist, James Earl Jones</span>
+                                    Starring: <span className="text-body">The Voice Of Truth, The Message Of Truth </span>
                                  </div>
                                  <div className="text-primary title genres">
-                                    Genres: <span className="text-body">Action</span>
+                                    Genres: <span className="text-body">The Gospel</span>
                                  </div>
                                  <div className="text-primary title tag">
-                                    Tag: <span className="text-body">Action, Adventure, Horror</span>
+                                    Tag: <span className="text-body">Messages, Documentary, Audio Bible</span>
                                  </div>
                               </div>
                               <div className="d-flex align-items-center r-mb-23" data-iq-gsap="onStart" data-iq-position-y="80" data-iq-delay="0.8">
@@ -281,7 +281,7 @@ const Homepage =()=>{
                                     <circle className='circle' fill="none" strokeWidth="7" strokeLinecap="round"
                                        strokeLinejoin="round" strokeMiterlimit="10" cx="106.8" cy="106.8" r="103.3" />
                                  </svg>
-                                 <span className="w-trailor">Watch Trailer</span>
+                                 <span className="w-trailor">Play</span>
                               </Link>
                            </Col>
                         </Row>
@@ -356,7 +356,7 @@ const Homepage =()=>{
                                     <circle className='circle' fill="none" strokeWidth="7" strokeLinecap="round"
                                        strokeLinejoin="round" strokeMiterlimit="10" cx="106.8" cy="106.8" r="103.3" />
                                  </svg>
-                                 <span className="w-trailor">Watch Trailer</span>
+                                 <span className="w-trailor">Play</span>
                               </Link>
                            </div>
                         </Row>
@@ -432,7 +432,7 @@ const Homepage =()=>{
                                     <circle className='circle' fill="none" strokeWidth="7" strokeLinecap="round"
                                        strokeLinejoin="round" strokeMiterlimit="10" cx="106.8" cy="106.8" r="103.3" />
                                  </svg>
-                                 <span className="w-trailor">Watch Trailer</span>
+                                 <span className="w-trailor">Play</span>
                               </Link>
                            </Col>
                         </Row>
