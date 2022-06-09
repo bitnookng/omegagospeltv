@@ -28,7 +28,7 @@ const ShowList = () => {
                <Row>
                   <Col lg="12">
                      <div className="trending-info season-info g-border">
-                        <h4 className="trending-text big-title text-uppercase mt-0">The Hero Camp</h4>
+                        <h4 className="trending-text big-title text-uppercase mt-0">Omega Gospel TV</h4>
                         <div className="d-flex align-items-center text-white text-detail episode-name mb-0">
                            <span>S1E01</span>
                            <span className="trending-year">Lorem Ipsum is dummy text</span>
