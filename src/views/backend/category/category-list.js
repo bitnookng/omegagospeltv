@@ -131,7 +131,7 @@ const CategoryList = () => {
                                                     <img src={img1} className="img-fluid" alt=""/>
                                                 </div>
                                                 <div className="block-description">
-                                                    <h6 className="iq-title"><Link to="/movie-details">Day of Darkness</Link></h6>
+                                                    <h6 className="iq-title"><Link to="/movie-details">Bishop T.D Jakes</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">15+</div>
                                                         <span className="text-white">Messages</span>
@@ -169,7 +169,7 @@ const CategoryList = () => {
                                                     <img src={img2} className="img-fluid" alt=""/>
                                                 </div>
                                                 <div className="block-description">
-                                                    <h6 className="iq-title"><Link to="/movie-details">My True Friends</Link></h6>
+                                                    <h6 className="iq-title"><Link to="/movie-details">Winning Ways with Pastor MAtthew Ashimolowo </Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">7+</div>
                                                         <span className="text-white">Messages</span>
@@ -207,7 +207,7 @@ const CategoryList = () => {
                                                     <img src={img3} className="img-fluid" alt=""/>
                                                 </div>
                                                 <div className="block-description">
-                                                    <h6 className="iq-title"><Link to="/movie-details">Arrival 1999</Link></h6>
+                                                    <h6 className="iq-title"><Link to="/movie-details">Gosple Truth with Andrew Wommack</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">11+</div>
                                                         <span className="text-white">Messages</span>
@@ -466,7 +466,7 @@ const CategoryList = () => {
                                                     <img src={img3} className="img-fluid" alt=""/>
                                                 </div>
                                                 <div className="block-description">
-                                                    <h6 className="iq-title"><Link to="/movie-details">Arrival 1999</Link></h6>
+                                                    <h6 className="iq-title"><Link to="/movie-details">Gosple Truth with Andrew Wommack</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">11+</div>
                                                         <span className="text-white">Messages</span>
@@ -573,7 +573,7 @@ const CategoryList = () => {
                                                     <img src={img1} className="img-fluid" alt=""/>
                                                 </div>
                                                 <div className="block-description">
-                                                    <h6 className="iq-title"><Link to="/movie-details">Day of Darkness</Link></h6>
+                                                    <h6 className="iq-title"><Link to="/movie-details">Bishop T.D Jakes</Link></h6>
                                                     <div className="movie-time d-flex align-items-center my-2">
                                                         <div className="badge badge-secondary p-1 mr-2">15+</div>
                                                         <span className="text-white">Messages</span>

@@ -4402,7 +4402,7 @@ const Homepage =()=>{
                                        <img src={tvthrillers1} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Day of Darkness</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">Bishop T.D Jakes</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">15+</div>
                                           <span className="text-white">Messages</span>
@@ -4442,7 +4442,7 @@ const Homepage =()=>{
                                        <img src={tvthrillers2} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">My True Friends</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">Winning Ways with Pastor MAtthew Ashimolowo </Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">7+</div>
                                           <span className="text-white">Messages</span>
@@ -4483,7 +4483,7 @@ const Homepage =()=>{
                                        <img src={tvthrillers3} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Arrival 1999</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">Gosple Truth with Andrew Wommack</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">11+</div>
                                           <span className="text-white">Messages</span>
