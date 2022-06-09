@@ -150,7 +150,7 @@ const AddMovie = () => {
                                                         <img src={movie2} className="img-fluid" alt=""/>
                                                     </div>
                                                     <div className="block-description">
-                                                        <h6 className="iq-title"><Link to="#">Boop Bitty</Link></h6>
+                                                        <h6 className="iq-title"><Link to="#">Gospel Truth</Link></h6>
                                                         <div className="movie-time d-flex align-items-center my-2">
                                                             <div className="badge badge-secondary p-1 mr-2">11+</div>
                                                             <span className="text-white">2h 30m</span>
@@ -315,7 +315,7 @@ const AddMovie = () => {
                             <Row>
                                 <Col sm="12" className="overflow-hidden">
                                     <div className="d-flex align-items-center justify-content-between">                     
-                                        <h4 className="main-title"><Link to="#">Upcoming Movies</Link></h4>
+                                        <h4 className="main-title"><Link to="#">Omega On Demand</Link></h4>
                                     </div>
                                     <div id="upcoming-contens">
                                         <div id="prev2" className="swiper-button swiper-button-prev"><i className= "fa fa-chevron-left"></i></div>
