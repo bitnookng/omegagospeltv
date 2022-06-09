@@ -1316,7 +1316,7 @@ const Homepage =()=>{
                                                       </div>
                                                    </div>
                                                 </Link>
-                                                <h1 className="trending-text big-title text-uppercase">the hero camp</h1>
+                                                <h1 className="trending-text big-title text-uppercase">Omega Gospel Tv</h1>
                                                 <div className="d-flex align-items-center text-white text-detail">
                                                    <span className="badge badge-secondary p-3">18+</span>
                                                    <span className="ml-3">3 Seasons</span>
@@ -1356,7 +1356,7 @@ const Homepage =()=>{
                                                       <img src={logo} className="c-logo" alt="stramit"/>
                                                    </div>
                                                 </Link>
-                                                <h1 className="trending-text big-title text-uppercase">the hero camp</h1>
+                                                <h1 className="trending-text big-title text-uppercase">Omega Gospel Tv</h1>
                                                 <div className="d-flex align-items-center text-white text-detail mb-4">
                                                    <span className="season_date ml-2">
                                                       2 Seasons
@@ -1501,7 +1501,7 @@ const Homepage =()=>{
                                                       <img src={logo} className="c-logo" alt="stramit"/>
                                                    </div>
                                                 </Link>
-                                                <h1 className="trending-text big-title text-uppercase">the hero camp</h1>
+                                                <h1 className="trending-text big-title text-uppercase">Omega Gospel Tv</h1>
                                                 <div className="episodes-contens mt-4" id="episode2">
                                                    <div id="prev12" className="swiper-button swiper-button-prev"><i className= "fa fa-chevron-left"></i></div>
                                                    <div id="next12" className="swiper-button swiper-button-next"><i className= "fa fa-chevron-right"></i></div>
@@ -1638,7 +1638,7 @@ const Homepage =()=>{
                                                       <img src={logo} className="c-logo" alt="stramit"/>
                                                    </div>
                                                 </Link>
-                                                <h1 className="trending-text big-title text-uppercase">the hero camp</h1>
+                                                <h1 className="trending-text big-title text-uppercase">Omega Gospel Tv</h1>
                                                 <div className="episodes-contens mt-4" id="episode3">
                                                    <div id="prev13" className="swiper-button swiper-button-prev"><i className= "ri-arrow-left-s-line"></i></div>
                                                    <div id="next13" className="swiper-button swiper-button-next"><i className= "ri-arrow-right-s-line"></i></div>         

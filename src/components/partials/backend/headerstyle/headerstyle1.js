@@ -91,7 +91,7 @@ const  HeaderStyle1 =(props) =>{
                                                                             <img src={thumb3} className="img-fluid mr-3"
                                                                             alt="streamit" />
                                                                             <div className="media-body">
-                                                                                <h6 className="mb-0 ">The Hero Camp</h6>
+                                                                                <h6 className="mb-0 ">Omega Gospel Tv</h6>
                                                                                 <small className="font-size-12">1 hour ago</small>
                                                                             </div>
                                                                         </div>
@@ -194,7 +194,7 @@ const  HeaderStyle1 =(props) =>{
                                                                     <img src={thumb3} className="img-fluid mr-3"
                                                                     alt="streamit" />
                                                                     <div className="media-body">
-                                                                        <h6 className="mb-0 ">The Hero Camp</h6>
+                                                                        <h6 className="mb-0 ">Omega Gospel Tv</h6>
                                                                         <small className="font-size-12">1 hour ago</small>
                                                                     </div>
                                                                 </div>

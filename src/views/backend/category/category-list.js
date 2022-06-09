@@ -41,7 +41,7 @@ const CategoryList = () => {
                             <div className="shows-img">
                                 <img src={banner1} className="w-100" alt=""/>
                                 <div className="shows-content">
-                                    <h4 className="text-white mb-1">The Hero Camp</h4>
+                                    <h4 className="text-white mb-1">Omega Gospel Tv</h4>
                                     <div className="movie-time d-flex align-items-center">
                                         <div className="badge badge-secondary p-1 mr-2">18+</div>
                                         <span className="text-white">3 Seasons</span>
