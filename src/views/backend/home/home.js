@@ -750,7 +750,7 @@ const Homepage =()=>{
                                        <img src={upcoming2} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Shadow</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">Winning Ways with Pastor Matthew Ashimolowo</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">22+</div>
                                           <span className="text-white">2h 15m</span>
@@ -791,7 +791,7 @@ const Homepage =()=>{
                                        <img src={upcoming3} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"> <Link to="/show-details">Another Danger</Link></h6>
+                                       <h6 className="iq-title"> <Link to="/show-details">Joseph Prince</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">25+</div>
                                           <span className="text-white">3h</span>
@@ -832,7 +832,7 @@ const Homepage =()=>{
                                           <img src={upcoming4} className="img-fluid" alt=""/>
                                        </div>
                                        <div className="block-description">
-                                          <h6 className="iq-title"><Link to="/show-details">1980</Link></h6>
+                                          <h6 className="iq-title"><Link to="/show-details">Bill Winston</Link></h6>
                                           <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                              <div className="badge badge-secondary p-1 mr-2">11+</div>
                                              <span className="text-white">2h 45m</span>
@@ -873,7 +873,7 @@ const Homepage =()=>{
                                        <img src={upcoming5} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Vugotronic</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">The Gospel Truth with Andrew Wommack</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">9+</div>
                                           <span className="text-white">2h 30m</span>
@@ -1026,7 +1026,7 @@ const Homepage =()=>{
                                        <img src={suggested3} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Unknown Land</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">Bishop T.D Jakes</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">17+</div>
                                           <span className="text-white">2h 30m</span>
