@@ -56,10 +56,10 @@ const PricingPlan2 = () => {
                     <Row className="align-items-center">
                         <Col sm="12">
                             <nav aria-label="breadcrumb" className="text-center iq-breadcrumb-two">
-                                <h2 className="title">Pricing Plan 2</h2>
+                                <h2 className="title">Donation</h2>
                                 <Breadcrumb className="main-bg">
                                     <Breadcrumb.Item>Home</Breadcrumb.Item>  
-                                    <Breadcrumb.Item active>Pricing Plan 2</Breadcrumb.Item>
+                                    <Breadcrumb.Item active>Donation</Breadcrumb.Item>
                                 </Breadcrumb>
                             </nav>
                         </Col>

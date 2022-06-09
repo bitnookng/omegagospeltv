@@ -63,7 +63,7 @@ const MovieList = () => {
                             <div className="shows-img">
                                 <img src={banner2} className="w-100 img1" alt=""/>
                                 <div className="shows-content">
-                                    <h4 className="text-white mb-1">Jumbo Queen</h4>
+                                    <h4 className="text-white mb-1">Daily Devotional</h4>
                                     <div className="movie-time d-flex align-items-center">
                                         <div className="badge badge-secondary p-1 mr-2">9+</div>
                                         <span className="text-white">2h 40m</span>

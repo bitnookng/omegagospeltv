@@ -133,7 +133,7 @@ const  HeaderStyle1 =(props) =>{
                                                         <li className="menu-item"><Link to="#">Pricing</Link>
                                                             <ul className="sub-menu">
                                                                 <li className="menu-item"><Link to="/pricing-plan-1">Pricing Plan 1</Link></li>
-                                                                <li className="menu-item"><Link to="/pricing-plan-2">Pricing Plan 2</Link></li>
+                                                                <li className="menu-item"><Link to="/pricing-plan-2">Donation</Link></li>
                                                             </ul>
                                                         </li>
                                                     </ul>
