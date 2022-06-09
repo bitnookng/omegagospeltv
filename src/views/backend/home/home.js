@@ -447,7 +447,7 @@ const Homepage =()=>{
                   <Row>
                      <Col sm="12" className="overflow-hidden">
                         <div className="d-flex align-items-center justify-content-between">
-                           <h4 className="main-title">Latest Movies</h4>
+                           <h4 className="main-title">Up Next</h4>
                            <Link className="iq-view-all" to="/movie-category">View All</Link>                   
                         </div>
                         <div id="favorites-contens">
@@ -514,7 +514,7 @@ const Homepage =()=>{
                                        <img src={fav2} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Last Race</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">Koinonia</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">7+</div>
                                           <span className="text-white">2 Seasons</span>
