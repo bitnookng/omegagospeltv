@@ -553,7 +553,7 @@ const Homepage =()=>{
                                        <img src={fav3} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Turning Point International</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details"></Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">15+</div>
                                           <span className="text-white">2h 30m</span>
@@ -709,7 +709,7 @@ const Homepage =()=>{
                                        <img src={upcoming1} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Creflo Dollar</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details"></Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">5+</div>
                                           <span className="text-white">2h 30m</span>
@@ -749,7 +749,7 @@ const Homepage =()=>{
                                        <img src={upcoming2} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Winning Ways with Pastor Matthew Ashimolowo</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details"></Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">22+</div>
                                           <span className="text-white">2h 15m</span>
@@ -790,7 +790,7 @@ const Homepage =()=>{
                                        <img src={upcoming3} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"> <Link to="/show-details">Joseph Prince</Link></h6>
+                                       <h6 className="iq-title"> <Link to="/show-details"></Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">25+</div>
                                           <span className="text-white">3h</span>
