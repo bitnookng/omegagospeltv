@@ -23,9 +23,9 @@ $gray-400: #ced4da !default;
 $gray-500: #adb5bd !default;
 $gray-600: #6c757d !default;
 $gray-700: #495057 !default;
-$gray-800: #04106b !default;
-$gray-900: #305c75 !default;
-$blue-300: rgb(15, 3, 122) !default;
+$gray-800: #01041b !default;
+$gray-900: #212529 !default;
+$black:    #000 !default;
 
 $grays: () !default;
 
@@ -51,7 +51,7 @@ $primary-800:  #002162 !default;
 
 $secondary-300: #DFE3EC !default;
 $secondary:     #8F9FBC !default; //#b1c5d2
-$secondary-800: #02205c !default;
+$secondary-800: #252D3D !default;
 
 $danger-300:     rgba(#E87D7D,0.3) !default;
 $danger:         #F42B3D !default;
@@ -66,8 +66,8 @@ $blue:    #4788ff !default;
 $blue-800:  #1360ee !default;
 
 $red-300:     #FFB3B3 !default;
-$red:         #0590c7 !default;
-$red-800:     #00e1ff !default;
+$red:         #e24b58 !default;
+$red-800:     #B20000 !default;
 
 $yellow-300:  #fff0a4 !default;
 $yellow:  #ffd600 !default;
@@ -112,8 +112,8 @@ $teal:    #20c997 !default;
 $dark-body-bg: #222222 !default;
 $dark-body-text :#EFF0F1 !default;
 $dark-title-text : #ffffff !default;
-$dark-border-color: #06099c !default;
-$dark-card-bg:  #000277 !default;
+$dark-border-color: #252525 !default;
+$dark-card-bg:  #181818 !default;
 
 //  color light mode
 
@@ -194,7 +194,7 @@ $pinkdark:          $pinkdark !default;
 $pinkdark-dark:     $pinkdark-800 !default;
 
 $intro-light-bg: #fafbfe !default;
-$intro-dark-bg: #024172 !default;
+$intro-dark-bg: #2b343b !default;
 
 $navbar-bg: $card-bg;
 $navbar-bg-dark: $dark-card-bg;
@@ -216,8 +216,8 @@ $header-submenu-border-color: $border-color;
 
 $body-text-dark:    $bodytextdark !default;
 
-$dark-primary:     rgba(3, 17, 138, 0.1);
-$dark-secondary:   rgba(2, 55, 100, 0.1);
+$dark-primary:     rgba(71, 136, 255, 0.1);
+$dark-secondary:   rgba(108, 117, 125, 0.1);
 $dark-success:     rgba(55, 230, 178, 0.1);
 $dark-info:       rgba(135, 108, 254, 0.1);
 $dark-warning:    rgba(254, 114, 28, 0.1);

@@ -110,9 +110,12 @@ const  HeaderStyle1 =(props) =>{
                                                 <li className="menu-item">
                                                     <Link to="/">Home</Link>
                                                 </li>
+                                                <li className="menu-item"><Link to="/about-us">About Us</Link></li>
                                                 <li className="menu-item">
-                                                    <Link to="/movie-category">Movies</Link>
+                                                    <Link to="/movie-category">Programs</Link>
                                                 </li> 
+                                                        <li className="menu-item"><Link to="/faq">FAQ</Link></li>
+
                                                 <li className="menu-item">
                                                     <Link to="/show-category">Tv Shows</Link>
                                                 </li>                                                              
@@ -126,9 +129,8 @@ const  HeaderStyle1 =(props) =>{
                                                 <li className="menu-item">
                                                     <Link to="#">Pages</Link>
                                                     <ul className="sub-menu">
-                                                        <li className="menu-item"><Link to="/about-us">About Us</Link></li>
+                                                        
                                                         <li className="menu-item "><Link to="/contact">Contact</Link></li>
-                                                        <li className="menu-item"><Link to="/faq">FAQ</Link></li>
                                                         <li className="menu-item"><Link to="/privacy-policy">Privacy-Policy</Link></li>
                                                         <li className="menu-item"><Link to="#">Pricing</Link>
                                                             <ul className="sub-menu">

@@ -13,9 +13,9 @@
         }
     }
     .iq-sidebar  {
-        background: $blue-card-bg;
+        background: $dark-card-bg;
     }
-    background: $blue-body-bg;
+    background: $dark-body-bg;
     color: $dark-body-text;
     @include transition-mixin(all 0.3s ease-in-out);
     #loading-center{
@@ -42,7 +42,7 @@
         }
     }
     #loading{
-        background-color: $blue-body-bg;
+        background-color: $dark-body-bg;
     }
     ::-webkit-scrollbar-track {
         background: $dark-border-color;
