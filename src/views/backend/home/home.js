@@ -243,7 +243,7 @@ const Homepage =()=>{
                                           <i className="fa fa-star-half" aria-hidden="true"></i>
                                        </li>
                                     </ul>
-                                    <span className="text-white ml-2">4.7(lmdb)</span>
+                                    <span className="text-white ml-2"></span>
                                  </div>
                                  <div className="d-flex align-items-center mt-2 mt-md-3" data-iq-gsap="onStart" data-iq-position-x="-200" data-iq-delay="-0.5">
                                     <span className="badge badge-secondary p-2">Truth On Air </span>
