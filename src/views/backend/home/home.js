@@ -474,7 +474,7 @@ const Homepage =()=>{
                                        <img src={fav1} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Real Woman</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details"></Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">13+</div>
                                           <span className="text-white">2h 30m</span>
@@ -513,7 +513,7 @@ const Homepage =()=>{
                                        <img src={fav2} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Destiny Ecounter</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details"></Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">7+</div>
                                           <span className="text-white">Messages</span>
