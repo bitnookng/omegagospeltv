@@ -150,7 +150,7 @@ const AddMovie = () => {
                                                         <img src={movie2} className="img-fluid" alt=""/>
                                                     </div>
                                                     <div className="block-description">
-                                                        <h6 className="iq-title"><Link to="#">Gospel Truth</Link></h6>
+                                                        <h6 className="iq-title"><Link to="#">Turning Point International</Link></h6>
                                                         <div className="movie-time d-flex align-items-center my-2">
                                                             <div className="badge badge-secondary p-1 mr-2">11+</div>
                                                             <span className="text-white">2h 30m</span>

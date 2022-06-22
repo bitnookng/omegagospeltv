@@ -514,7 +514,7 @@ const Homepage =()=>{
                                        <img src={fav2} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Koinonia</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">Destiny Ecounter</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">7+</div>
                                           <span className="text-white">Messages</span>
@@ -554,7 +554,7 @@ const Homepage =()=>{
                                        <img src={fav3} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Gospel Truth</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">Turning Point International</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">15+</div>
                                           <span className="text-white">2h 30m</span>
@@ -873,7 +873,7 @@ const Homepage =()=>{
                                        <img src={upcoming5} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">The Gospel Truth with Andrew Wommack</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">The Turning Point International with Andrew Wommack</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           <div className="badge badge-secondary p-1 mr-2">9+</div>
                                           <span className="text-white">2h 30m</span>
