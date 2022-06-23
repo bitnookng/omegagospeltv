@@ -37,7 +37,7 @@ const Contact= () => {
                                         <h3 className="icon-box-title">
                                             <span>Address</span>
                                         </h3>
-                                        <p className="icon-box-description">Brooklyn, New York</p>
+                                        <p className="icon-box-description">SA</p>
                                     </div>
                                 </Col>
                                 <Col md="4">
@@ -51,7 +51,8 @@ const Contact= () => {
                                             <h3 className="icon-box-title">
                                                 <span>Anytime Call</span>
                                             </h3>
-                                            <p className="icon-box-description">+0123-456789</p>
+                                            <p className="icon-box-description"> +27 11 781 8714</p>
+                                            <p className="icon-box-description"> Office cell/WhatsApp: +27 78 200 3226</p>
                                         </div>
                                     </div>
                                 </Col>
@@ -65,7 +66,7 @@ const Contact= () => {
                                             <h3 className="icon-box-title">
                                                 <span>Email Us</span>
                                             </h3>
-                                            <p className="icon-box-description">support@streamit.com</p>
+                                            <p className="icon-box-description">info@omegachannel.tv</p>
                                         </div>
                                     </div>
                                 </Col>
@@ -74,7 +75,7 @@ const Contact= () => {
                                 <h2 className="iq-title">
                                     Say Hello..!
                                 </h2>                      
-                                <p className="iq-title-desc">Fill up this form to reach our stunning Streamit team and click on send message. </p>
+                                <p className="iq-title-desc">Fill up this form to reach our team and click on send message. </p>
                             </div>
                             <div className="wrapper">
                                 <Form action="/wp-themes/streamit_wp/contact/#wpcf7-f6-p5048-o1" method="post" className="wpcf7-form init" noValidate="noValidate" data-status="init">
