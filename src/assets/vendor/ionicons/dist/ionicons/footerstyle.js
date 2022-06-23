@@ -83,7 +83,7 @@ const FooterStyle = (props) =>{
                             </Col>
                             <Col lg="2" md="6" className="mt-4 mt-lg-0">
                                 <h6 className="footer-link-title">
-                                    messages
+                                    Follow Us :
                                 </h6>
                                 <ul className="info-share"> 
                                     <li><Link target="_blank" to="#"><i className="fa fa-facebook"></i></Link></li>
@@ -96,7 +96,7 @@ const FooterStyle = (props) =>{
                             <Col lg="3" md="6" className="mt-4 mt-lg-0">
                                 <div className="widget text-left">
                                     <div className="textwidget">
-                                        <h6 className="footer-link-title">Coming Soon</h6>
+                                        <h6 className="footer-link-title">Omega Gospel TV</h6>
                                         <div className="d-flex align-items-center">
                                             <Link className="app-image" to="#">
                                                 <img src={footer1} alt="play-store"/>
