@@ -114,24 +114,23 @@ const  HeaderStyle1 =(props) =>{
                                                 <li className="menu-item">
                                                     <Link to="/movie-category">Programs</Link>
                                                 </li> 
-                                                        <li className="menu-item"><Link to="/faq">FAQ</Link></li>
-
-                                                <li className="menu-item">
-                                                    <Link to="/show-category">Tv Shows</Link>
-                                                </li>   
+                                                                                                           
                                                 <li className="menu-item "><Link to="/contact">Contact</Link></li>                                                           
                                                 <li className="menu-item">
                                                     <Link to="#">Blog</Link>
-                                                    <ul className="sub-menu">
-                                                        <li className="menu-item"><Link to="/blog">Blog</Link></li>
-                                                        <li className="menu-item"><Link to="/blog-details">Blog details</Link></li>
-                                                    </ul>
+                                                   
                                                 </li>
                                                 <li className="menu-item">
                                                     <Link to="#">Pages</Link>
                                                     <ul className="sub-menu">
                                                         
-                                                        
+                                                    <li className="menu-item">
+                                                    <ul className="sub-menu">
+                                                        <li className="menu-item"><Link to="/blog">Blog</Link></li>
+                                                        <li className="menu-item"><Link to="/blog-details">Blog details</Link></li>
+                                                    </ul>
+                                                    <li className="menu-item"><Link to="/faq">FAQ</Link></li>
+                                                    <Link to="/show-category">Tv Shows</Link>                                             </li>
                                                         <li className="menu-item"><Link to="/privacy-policy">Privacy-Policy</Link></li>
                                                         <li className="menu-item"><Link to="#">Pricing</Link>
                                                             <ul className="sub-menu">
