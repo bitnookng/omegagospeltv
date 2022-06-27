@@ -67,10 +67,10 @@ const FooterStyle = (props) =>{
                                                 <Link to="/privacy-policy">Privacy-Policy</Link>
                                             </li>
                                             <li id="menu-item-7118" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-7118">
-                                                <Link to="/faq">FAQ</Link>
+                                                {/* <Link to="/faq">FAQ</Link> */}
                                             </li>
                                             <li id="menu-item-7118" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-7118">
-                                                <Link to="/extra-pages/watch-video">Watch List</Link>
+                                                {/* <Link to="/extra-pages/watch-video">Watch List</Link> */}
                                             </li>
                                         </ul>
                                     </div>
