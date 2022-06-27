@@ -35,10 +35,10 @@ const AboutUs= () => {
                   <Col lg="12" sm="12" className="mb-sm-4">
                      <div className="text-center iq-title-box iq-title-default">
                         <h2 className="iq-title text-capitalize">
-                           Masterminds team
+                           Meet the team
                         </h2>
                         <p className="iq-title-desc">
-                           Your Streamit is build by one of the best and well experienced web developers and an <br/>awarded Envato Elite Author.
+                          Omega Fospel Tv is managed some of the best and well experienced individual called by grace to express there God given abilities 
                         </p>
                      </div>
                   </Col>
