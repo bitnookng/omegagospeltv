@@ -243,24 +243,24 @@ const Homepage =()=>{
                                           <i className="fa fa-star-half" aria-hidden="true"></i>
                                        </li>
                                     </ul>
-                                    <span className="text-white ml-2">4.7(lmdb)</span>
+                                    {/* <span className="text-white ml-2">4.7(lmdb)</span> */}
                                  </div>
-                                 <div className="d-flex align-items-center mt-2 mt-md-3" data-iq-gsap="onStart" data-iq-position-x="-200" data-iq-delay="-0.5">
-                                    <span className="badge badge-secondary p-2">Truth On Air </span>
-                                    <span className="ml-3">Sermons</span>
-                                 </div>
-                                 <p data-iq-gsap="onStart" data-iq-position-y="80" data-iq-delay="0.8">2022
+                                 {/* <div className="d-flex align-items-center mt-2 mt-md-3" data-iq-gsap="onStart" data-iq-position-x="-200" data-iq-delay="-0.5"> */}
+                                    {/* <span className="badge badge-secondary p-2">Truth On Air </span> */}
+                                    {/* <span className="ml-3">Sermons</span> */}
+                                 {/* </div> */}
+                                 <p data-iq-gsap="onStart" data-iq-position-y="80" data-iq-delay="0.8"><h3>The voice of truth</h3>
                                  </p>
                               </div>
-                              <div className="trending-list" data-wp_object-in="fadeInUp" data-delay-in="1.2">
+                              ?<div className="trending-list" data-wp_object-in="fadeInUp" data-delay-in="1.2">
                                  <div className="text-primary title starring">
-                                    Starring: <span className="text-body">The Voice Of Truth, The Message Of Truth </span>
+                                    {/* Starring: <span className="text-body">The Voice Of Truth, The Message Of Truth </span> */}
                                  </div>
                                  <div className="text-primary title genres">
-                                    Genres: <span className="text-body">The Gospel</span>
+                                    {/* Genres: <span className="text-body">The Gospel</span> */}
                                  </div>
                                  <div className="text-primary title tag">
-                                    Tag: <span className="text-body">Messages, Documentary, Audio Bible</span>
+                                    {/* Tag: <span className="text-body">Messages, Documentary, Audio Bible</span> */}
                                  </div>
                               </div>
                               <div className="d-flex align-items-center r-mb-23" data-iq-gsap="onStart" data-iq-position-y="80" data-iq-delay="0.8">

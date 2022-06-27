@@ -30,9 +30,9 @@ const  HeaderStyle1 =(props) =>{
                                             <span className="navbar-menu-icon navbar-menu-icon--bottom"></span>
                                         </div>
                                     </Navbar.Toggle>
-                                    <Navbar.Brand className="navbar-brand" href="/"> 
-                                        <img className="img-fluid logo" src={logo} alt="streamit" /> 
-                                    </Navbar.Brand>      
+                                    {/* <Navbar.Brand className="navbar-brand" href="/">  */}
+                                        {/* <img className="img-fluid logo" src={logo} alt="streamit" />  */}
+                                    {/* </Navbar.Brand>       */}
                                     <Dropdown className="mobile-more-menu">
                                         <Dropdown.Toggle to="#" as={CustomToggle} variant="more-toggle">
                                             <i className="ri-more-line"></i>
