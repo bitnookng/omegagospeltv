@@ -1189,7 +1189,7 @@ const Homepage =()=>{
                               <div className="badge badge-secondary mr-3">13+</div>
                               <h6 className="text-white">2h 30m</h6>
                            </div>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
+                           <p>The 700 Club is the flagship television program of the Christian Broadcasting Network, airing each weekday in syndication in the United States and available worldwide on CBN.com. The news magazine program features live guests, daily news, contemporary music, testimonies, and Christian ministry. Celebrities and other guests are often interviewed, and Christian lifestyle issues are presented. The program additionally features world news stories plus investigative reporting by the CBN News team.</p>
                            <div className="parallax-buttons">
                               <Link to="/movie-details" className="btn btn-hover">Play Now</Link>
                               <Link to="/movie-details" className="btn btn-link">More details</Link>
