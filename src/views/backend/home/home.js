@@ -595,10 +595,10 @@ const Homepage =()=>{
                                        <img src={fav4} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       {/* <h6 className="iq-title"><Link to="/show-details">Dino Land</Link></h6> */}
+                                       <h6 className="iq-title"><Link to="/show-details">700 Club</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
-                                          <div className="badge badge-secondary p-1 mr-2">18+</div>
-                                          <span className="text-white">Messages</span>
+                                          {/* <div className="badge badge-secondary p-1 mr-2">18+</div> */}
+                                          {/* <span className="text-white">Messages</span> */}
                                        </div>
                                        <div className="hover-buttons">
                                           <Link to="/show-details" role="button" className="btn btn-hover iq-button">
@@ -621,7 +621,7 @@ const Homepage =()=>{
                                           </li>
                                           <li>
                                              <span><i className="ri-heart-fill"></i></span>
-                                             <span className="count-box">19+</span>
+                                             {/* <span className="count-box">19+</span> */}
                                           </li>
                                           <li>
                                              <span><i className="ri-add-line"></i></span>
@@ -636,10 +636,10 @@ const Homepage =()=>{
                                        <img src={fav5} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Jaction action</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">Living by the answer</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
-                                          <div className="badge badge-secondary p-1 mr-2">10+</div>
-                                          <span className="text-white">1 Season</span>
+                                          {/* <div className="badge badge-secondary p-1 mr-2">10+</div> */}
+                                          {/* <span className="text-white">1 Season</span> */}
                                        </div>
                                        <div className="hover-buttons">
                                           <Link to="/show-details" role="button" className="btn btn-hover iq-button">
@@ -662,7 +662,7 @@ const Homepage =()=>{
                                           </li>
                                           <li>
                                              <span><i className="ri-heart-fill"></i></span>
-                                             <span className="count-box">19+</span>
+                                             {/* <span className="count-box">19+</span> */}
                                           </li>
                                           <li>
                                              <span><i className="ri-add-line"></i></span>
