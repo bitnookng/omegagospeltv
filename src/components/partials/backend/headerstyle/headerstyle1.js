@@ -117,10 +117,10 @@ const  HeaderStyle1 =(props) =>{
                                                                                                            
                                                 <li className="menu-item "><Link to="/contact">Contact</Link></li>                                                           
                                                 <li className="menu-item">
-                                                    <Link to="#">Blog</Link>
+                                                    {/* <Link to="#">Blog</Link> */}
                                                    
                                                 </li>
-                                                <li className="menu-item">
+                                                {/* <li className="menu-item">
                                                     <Link to="#">Pages</Link>
                                                     <ul className="sub-menu">
                                                         
@@ -139,7 +139,7 @@ const  HeaderStyle1 =(props) =>{
                                                             </ul>
                                                         </li>
                                                     </ul>
-                                                </li>
+                                                </li> */}
                                             </Nav>
                                         </div>
                                     </Navbar.Collapse>
