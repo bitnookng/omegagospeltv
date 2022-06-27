@@ -4402,10 +4402,10 @@ const Homepage =()=>{
                                        <img src={tvthrillers1} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Bishop T.D Jakes</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">Present truth</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
-                                          <div className="badge badge-secondary p-1 mr-2">15+</div>
-                                          <span className="text-white">Messages</span>
+                                          {/* <div className="badge badge-secondary p-1 mr-2">15+</div> */}
+                                          {/* <span className="text-white">Messages</span> */}
                                        </div>
                                        <div className="hover-buttons">
                                           <Link to="/show-details" role="button" className="btn btn-hover iq-button">
@@ -4427,7 +4427,7 @@ const Homepage =()=>{
                                           </li>
                                           <li>
                                              <span><i className="ri-heart-fill"></i></span>
-                                             <span className="count-box">19+</span>
+                                             {/* <span className="count-box">19+</span> */}
                                           </li>
                                           <li>
                                              <span><i className="ri-add-line"></i></span>
@@ -4442,10 +4442,10 @@ const Homepage =()=>{
                                        <img src={tvthrillers2} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Winning Ways with Pastor MAtthew Ashimolowo </Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">Wisdom connect</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
-                                          <div className="badge badge-secondary p-1 mr-2">7+</div>
-                                          <span className="text-white">Messages</span>
+                                          {/* <div className="badge badge-secondary p-1 mr-2">7+</div> */}
+                                          {/* <span className="text-white">Messages</span> */}
                                        </div>
                                        <div className="hover-buttons">
                                           <Link to="/show-details" role="button" className="btn btn-hover iq-button">
@@ -4468,7 +4468,7 @@ const Homepage =()=>{
                                           </li>
                                           <li>
                                              <span><i className="ri-heart-fill"></i></span>
-                                             <span className="count-box">19+</span>
+                                             {/* <span className="count-box">19+</span> */}
                                           </li>
                                           <li>
                                              <span><i className="ri-add-line"></i></span>
@@ -4483,10 +4483,10 @@ const Homepage =()=>{
                                        <img src={tvthrillers3} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Gosple Truth with Andrew Wommack</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">Destiny ecounter</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
-                                          <div className="badge badge-secondary p-1 mr-2">11+</div>
-                                          <span className="text-white">Messages</span>
+                                          {/* <div className="badge badge-secondary p-1 mr-2">11+</div> */}
+                                          {/* <span className="text-white">Messages</span> */}
                                        </div>
                                        <div className="hover-buttons">
                                           <Link to="/show-details" role="button" className="btn btn-hover iq-button">
@@ -4509,7 +4509,7 @@ const Homepage =()=>{
                                           </li>
                                           <li>
                                              <span><i className="ri-heart-fill"></i></span>
-                                             <span className="count-box">19+</span>
+                                             {/* <span className="count-box">19+</span> */}
                                           </li>
                                           <li>
                                              <span><i className="ri-add-line"></i></span>
@@ -4524,10 +4524,10 @@ const Homepage =()=>{
                                        <img src={tvthrillers4} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Night Mare</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">TPi</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
-                                          <div className="badge badge-secondary p-1 mr-2">18+</div>
-                                          <span className="text-white">Messages</span>
+                                          {/* <div className="badge badge-secondary p-1 mr-2">18+</div> */}
+                                          {/* <span className="text-white">Messages</span> */}
                                        </div>
                                        <div className="hover-buttons">
                                           <Link to="/show-details" role="button" className="btn btn-hover iq-button">
@@ -4550,7 +4550,7 @@ const Homepage =()=>{
                                           </li>
                                           <li>
                                              <span><i className="ri-heart-fill"></i></span>
-                                             <span className="count-box">19+</span>
+                                             {/* <span className="count-box">19+</span> */}
                                           </li>
                                           <li>
                                              <span><i className="ri-add-line"></i></span>
@@ -4565,10 +4565,10 @@ const Homepage =()=>{
                                        <img src={tvthrillers5} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">The Marshal King</Link></h6>
+                                       <h6 className="iq-title"><Link to="/show-details">Living by the water</Link></h6>
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
-                                          <div className="badge badge-secondary p-1 mr-2">17+</div>
-                                          <span className="text-white">1 Season</span>
+                                          {/* <div className="badge badge-secondary p-1 mr-2">17+</div> */}
+                                          {/* <span className="text-white">1 Season</span> */}
                                        </div>
                                        <div className="hover-buttons">
                                           <Link to="/show-details" role="button" className="btn btn-hover iq-button">
@@ -4591,7 +4591,7 @@ const Homepage =()=>{
                                           </li>
                                           <li>
                                              <span><i className="ri-heart-fill"></i></span>
-                                             <span className="count-box">19+</span>
+                                             {/* <span className="count-box">19+</span> */}
                                           </li>
                                           <li>
                                              <span><i className="ri-add-line"></i></span>

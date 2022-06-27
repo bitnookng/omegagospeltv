@@ -36,11 +36,11 @@ const AddMovie = () => {
                         <Row>
                             <Col lg="12">
                                 <div className="trending-info g-border">
-                                    <h1 className="trending-text big-title text-uppercase mt-0">The Illusion</h1>
+                                    <h1 className="trending-text big-title text-uppercase mt-0">700 Club</h1>
                                     <ul className="p-0 list-inline d-flex align-items-center movie-content">
-                                        <li className="text-white">Action</li>
-                                        <li className="text-white">Drama</li>
-                                        <li className="text-white">Thriller</li>
+                                        <li className="text-white">Christian news</li>
+                                        <li className="text-white">Talk</li>
+                                        <li className="text-white">Music</li>
                                     </ul>
                                     <div className="d-flex align-items-center text-white text-detail">
                                         <span className="badge badge-secondary p-3">13+</span>
@@ -52,11 +52,8 @@ const AddMovie = () => {
                                         <span className="text-gold ml-3">#2 in Series Today</span>
                                     </div>
                                     <p className="trending-dec w-100 mb-0">
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting
-                                        industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an
-                                        unknown printer took a galley of type and scrambled it to make a type specimen book. It has
-                                        survived not only five centuries.
-                                    </p>
+                                    The 700 Club is the flagship television program of the Christian Broadcasting Network, airing each weekday in syndication in the United States and available worldwide on CBN.com. The news magazine program features live guests, daily news, contemporary music, testimonies, and Christian ministry. Celebrities and other guests are often interviewed, and Christian lifestyle issues are presented. The program additionally features world news stories plus investigative reporting by the CBN News team.
+                                    The 700 Club has been in production since 1966, and initially hosted by Jim Bakker, as well as hosted by Gordon Robertson, Terry Meeuwsen, Ashley Key and Wendy Griffith. Previous co-hosts include Pat Robertson (1966–2021), Ben Kinchlow (1975–88, 1992–96), Sheila Walsh (1987–92), Danuta Rylko Soderman (1983–88), Kristi Watts (1999–2013), and Lisa Ryan (1996–2005). Tim Robertson served as host for a year (1987–88) along with Kinchlow and actress Susan Howard, while Pat Robertson ran unsuccessfully for President in the 1988 campaign.
                                     <ul className="list-inline p-0 mt-4 share-icons music-play-lists">
                                         <li>
                                             <span><i className="ri-add-line"></i></span>
@@ -150,7 +147,7 @@ const AddMovie = () => {
                                                         <img src={movie2} className="img-fluid" alt=""/>
                                                     </div>
                                                     <div className="block-description">
-                                                        <h6 className="iq-title"><Link to="#">Turning Point International</Link></h6>
+                                                        <h6 className="iq-title"><Link to="#">Gospel Truth</Link></h6>
                                                         <div className="movie-time d-flex align-items-center my-2">
                                                             <div className="badge badge-secondary p-1 mr-2">11+</div>
                                                             <span className="text-white">2h 30m</span>
