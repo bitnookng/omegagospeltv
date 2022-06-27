@@ -154,7 +154,7 @@ const AboutUs= () => {
                <div className="svg-mini-header">
                   <div className="text-center iq-title-box iq-title-default">
                      <h2 className="iq-title">
-                        Our Vission
+                        Our Vision
                      </h2>
                   </div>
                </div>
