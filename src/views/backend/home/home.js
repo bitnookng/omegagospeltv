@@ -915,7 +915,7 @@ const Homepage =()=>{
             </Container>
          </section>
                    
-            <section id="iq-suggestede" className="s-margin">
+            {/* <section id="iq-suggestede" className="s-margin">
                <Container fluid>
                   <Row>
                      <Col sm="12" className="overflow-hidden">
@@ -1146,7 +1146,7 @@ const Homepage =()=>{
                      </Col>
                   </Row>
                </Container>
-            </section>
+            </section> */}
             <section id="parallex" className="parallax-window">
                <Container fluid className="h-100">
                   <Row className="align-items-center justify-content-center h-100 parallaxt-details">
@@ -1206,8 +1206,8 @@ const Homepage =()=>{
                   </Row>
                </Container>
             </section>
-            <section id="iq-trending" className="s-margin">
-               <Container fluid>
+            {/* <section id="iq-trending" className="s-margin"> */}
+               {/* <Container fluid>
                   <Row>
                      <Col sm="12" className="overflow-hidden">
                         <div className="d-flex align-items-center justify-content-between">                      
@@ -4367,8 +4367,8 @@ const Homepage =()=>{
                         </div>
                      </Col>
                   </Row>
-               </Container>
-            </section>
+               </Container> */}
+            {/* </section> */}
             <section id="iq-tvthrillers" className="s-margin mb-5">
                <Container fluid>
                   <Row>
