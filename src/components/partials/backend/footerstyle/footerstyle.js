@@ -83,7 +83,7 @@ const FooterStyle = (props) =>{
                             </Col>
                             <Col lg="2" md="6" className="mt-4 mt-lg-0">
                                 <h6 className="footer-link-title">
-                                    messages
+                                    Connecct with us
                                 </h6>
                                 <ul className="info-share"> 
                                     <li><Link target="_blank" to="#"><i className="fa fa-facebook"></i></Link></li>
