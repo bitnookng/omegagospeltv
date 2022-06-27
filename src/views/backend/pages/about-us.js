@@ -38,7 +38,7 @@ const AboutUs= () => {
                            Meet the team
                         </h2>
                         <p className="iq-title-desc">
-                          Omega Fospel Tv is managed some of the best and well experienced individual called by grace to express there God given abilities 
+                          Omega Gospel Tv is managed some of the best and well experienced individual called by grace to express there God given abilities 
                         </p>
                      </div>
                   </Col>
@@ -52,10 +52,10 @@ const AboutUs= () => {
                      </div>
                      <div className="icon-box-content">
                         <div className="widget-container">
-                           <p className="heading-title size-default">ceo</p>		
+                           {/* <p className="heading-title size-default">ceo</p>		 */}
                         </div>
                         <div className="widget-container">
-                           <h4 className="heading-title size-default">Tonny Smith</h4>
+                           {/* <h4 className="heading-title size-default">Tonny Smith</h4> */}
                         </div>
                      </div>
                   </Col>
@@ -65,10 +65,10 @@ const AboutUs= () => {
                      </div>
                      <div className="icon-box-content">
                         <div className="widget-container">
-                           <p className="heading-title size-default">Designer</p>		
+                           {/* <p className="heading-title size-default">Designer</p>		 */}
                         </div>
                         <div className="widget-container">
-                           <h4 className="heading-title size-default">Barry Tech</h4>
+                           {/* <h4 className="heading-title size-default">Barry Tech</h4> */}
                         </div>
                      </div>
                   </Col>
@@ -78,10 +78,10 @@ const AboutUs= () => {
                      </div>
                      <div className="icon-box-content">
                         <div className="widget-container">
-                           <p className="heading-title size-default">Developer</p>		
+                           {/* <p className="heading-title size-default">Developer</p>		 */}
                         </div>
                         <div className="widget-container">
-                           <h4 className="heading-title size-default">kep John</h4>
+                           {/* <h4 className="heading-title size-default">kep John</h4> */}
                         </div>
                      </div>
                   </Col>
@@ -91,7 +91,7 @@ const AboutUs= () => {
                      </div>
                      <div className="icon-box-content">
                         <div className="widget-container">
-                           <p className="heading-title size-default">Designer</p>		
+                           {/* <p className="heading-title size-default">Designer</p>		 */}
                         </div>
                         <div className="widget-container">
                            <h4 className="heading-title size-default">Monty Rock</h4>

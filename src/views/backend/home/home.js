@@ -24,32 +24,32 @@ import upcoming4 from '../../../assets/images/upcoming/04.jpg'
 import upcoming5 from '../../../assets/images/upcoming/05.jpg'
 
 
-// suggested
-import suggested1 from '../../../assets/images/suggested/01.jpg'
-import suggested2 from '../../../assets/images/suggested/02.jpg'
-import suggested3 from '../../../assets/images/suggested/03.jpg'
-import suggested4 from '../../../assets/images/suggested/04.jpg'
-import suggested5 from '../../../assets/images/suggested/05.jpg'
+// // suggested
+// import suggested1 from '../../../assets/images/suggested/01.jpg'
+// import suggested2 from '../../../assets/images/suggested/02.jpg'
+// import suggested3 from '../../../assets/images/suggested/03.jpg'
+// import suggested4 from '../../../assets/images/suggested/04.jpg'
+// import suggested5 from '../../../assets/images/suggested/05.jpg'
 
 // parallax
 import parallax3 from '../../../assets/images/parallax/p1.jpg'
 import parallax4 from '../../../assets/images/parallax/parallax-logo.png'
 
-// trending
-import trending1 from '../../../assets/images/trending/01.jpg'
-import trending2 from '../../../assets/images/trending/02.jpg'
-import trending3 from '../../../assets/images/trending/03.jpg'
-import trending4 from '../../../assets/images/trending/04.jpg'
-import trending5 from '../../../assets/images/trending/05.jpg'
-import trending6 from '../../../assets/images/trending/06.jpg'
-import trendinglabel from '../../../assets/images/trending/trending-label.png'
+// // trending
+// import trending1 from '../../../assets/images/trending/01.jpg'
+// import trending2 from '../../../assets/images/trending/02.jpg'
+// import trending3 from '../../../assets/images/trending/03.jpg'
+// import trending4 from '../../../assets/images/trending/04.jpg'
+// import trending5 from '../../../assets/images/trending/05.jpg'
+// import trending6 from '../../../assets/images/trending/06.jpg'
+// import trendinglabel from '../../../assets/images/trending/trending-label.png'
 
-// episodes
-import episodes1 from '../../../assets/images/episodes/01.jpg'
-import episodes2 from '../../../assets/images/episodes/02.jpg'
-import episodes3 from '../../../assets/images/episodes/03.jpg'
-import episodes4 from '../../../assets/images/episodes/04.jpg'
-import episodes5 from '../../../assets/images/episodes/05.jpg'
+// // episodes
+// import episodes1 from '../../../assets/images/episodes/01.jpg'
+// import episodes2 from '../../../assets/images/episodes/02.jpg'
+// import episodes3 from '../../../assets/images/episodes/03.jpg'
+// import episodes4 from '../../../assets/images/episodes/04.jpg'
+// import episodes5 from '../../../assets/images/episodes/05.jpg'
 
 // tvthrillers
 import tvthrillers1 from '../../../assets/images/tvthrillers/01.jpg'
@@ -220,7 +220,7 @@ const Homepage =()=>{
                            <Col xl="6" lg="12" md="12">
                               <Link to="#">
                                  <div className="channel-logo" data-iq-delay="0.5">
-                                    <img src={logo} className="c-logo" alt="streamit"/>
+                                    {/* <img src={logo} className="c-logo" alt="streamit"/> */}
                                  </div>
                               </Link>
                               <h1 className="slider-text big-title title text-uppercase" data-iq-gsap="onStart" data-iq-position-x="-200">Omega Gospel TV</h1>
