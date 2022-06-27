@@ -94,7 +94,7 @@ const AboutUs= () => {
                            {/* <p className="heading-title size-default">Designer</p>		 */}
                         </div>
                         <div className="widget-container">
-                           <h4 className="heading-title size-default">Monty Rock</h4>
+                           {/* <h4 className="heading-title size-default">Monty Rock</h4> */}
                         </div>
                      </div>
                   </Col>
@@ -112,34 +112,34 @@ const AboutUs= () => {
                         <Col md="6">
                            <div className="text-left iq-title-box iq-title-default">
                               <h2 className="iq-title">
-                                 Contact Us Here
+                                 Our Mission
                               </h2>                        
-                              <p className="iq-title-desc">Streamit is located in Los Angeles city and you can contact us at <Link to="#">hello@streamit.com</Link> for any tech-related support and assistance. We love to hear from our Streamit users.</p>                     
+                              {/* <p className="iq-title-desc">Streamit is located in Los Angeles city and you can contact us at <Link to="#">hello@streamit.com</Link> for any tech-related support and assistance. We love to hear from our Streamit users.</p>                      */}
                               <Row className="mt-2 iq-rtl-direction">
                                  <Col md="4">
-                                    <div className="counter">                                 
-                                       <span className="counter-number" data-duration="2000" data-to-value="4" data-from-value="0" data-delimiter=",">4</span>
-                                    </div>
-                                    <div className="counter-title">Branch</div>
+                                    {/* <div className="counter">                                  */}
+                                       {/* <span className="counter-number" data-duration="2000" data-to-value="4" data-from-value="0" data-delimiter=",">4</span> */}
+                                    {/* </div> */}
+                                    {/* <div className="counter-title">Branch</div> */}
                                  </Col>
                                  <Col md="4">
                                     <div className="iq-contact-list" data-element_type="column">
                                     <div className="counter">                                 
-                                       <span className="counter-number" data-duration="2000" data-to-value="4" data-from-value="0" data-delimiter=",">
+                                       {/* <span className="counter-number" data-duration="2000" data-to-value="4" data-from-value="0" data-delimiter=",">
                                           500+
-                                       </span>
+                                       </span> */}
                                     </div>
-                                    <div className="counter-title">Employee</div>
+                                    {/* <div className="counter-title">Employee</div> */}
                                     </div>
                                  </Col>
                                  <Col md="4">
                                     <div className="iq-contact-list" data-element_type="column">
                                     <div className="counter">                                 
-                                       <span className="counter-number" data-duration="2000" data-to-value="4" data-from-value="0" data-delimiter=",">
+                                       {/* <span className="counter-number" data-duration="2000" data-to-value="4" data-from-value="0" data-delimiter=",">
                                           1,000+
-                                       </span>
+                                       </span> */}
                                     </div>
-                                    <div className="counter-title">Clients</div>
+                                    {/* <div className="counter-title">Clients</div> */}
                                     </div>
                                  </Col>
                               </Row>
@@ -154,13 +154,13 @@ const AboutUs= () => {
                <div className="svg-mini-header">
                   <div className="text-center iq-title-box iq-title-default">
                      <h2 className="iq-title">
-                        The Team	
+                        Our Vission
                      </h2>
                   </div>
                </div>
             </div>
          </Container>
-         <Container>
+         {/* <Container>
             <Row className="text-center d-flex justify-content-center">
               
 
@@ -192,7 +192,7 @@ const AboutUs= () => {
 
 
             </Row>
-         </Container>
+         </Container> */}
       </main>
       </>
    )
