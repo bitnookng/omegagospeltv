@@ -77,7 +77,7 @@ const FooterStyle = (props) =>{
                                 </div>
                                 <div className="widget text-left">			
                                     <div className="textwidget">
-                                        <p><small>© 2022 OMEGA GOSPEL. messagess Reserved. All videos and shows on this platform are trademarks of, and all related images and content are the property of, Omega Gospel TV. Duplication and copy of this is strictly prohibited. messagess reserved.</small></p>
+                                        <p><small>© 2022 OMEGA GOSPEL. messagess Reserved. All videos and shows on this platform are trademarks of, and all related images and content are the property of, Omega Gospel TV. Duplication and copy of this is strictly prohibited. </small></p>
                                     </div>
                                 </div>                        
                             </Col>
