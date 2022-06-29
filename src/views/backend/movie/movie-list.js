@@ -63,9 +63,9 @@ const MovieList = () => {
                             <div className="shows-img">
                                 <img src={banner2} className="w-100 img1" alt=""/>
                                 <div className="shows-content">
-                                    <h4 className="text-white mb-1">Destiny Encounter</h4>
+                                    <h4 className="text-white mb-1">Daily Devotional</h4>
                                     <div className="movie-time d-flex align-items-center">
-                                        {/* <div className="badge badge-secondary p-1 mr-2">9+</div> */}
+                                        <div className="badge badge-secondary p-1 mr-2">9+</div>
                                         <span className="text-white">2h 40m</span>
                                     </div>
                                 </div>
@@ -77,9 +77,9 @@ const MovieList = () => {
                             <div className="shows-img">
                                 <img src={banner3} className="w-100 img1" alt=""/>
                                 <div className="shows-content">
-                                    <h4 className="text-white mb-1">Turning Point Intl/h4>
+                                    <h4 className="text-white mb-1">The Lost Journey</h4>
                                     <div className="movie-time d-flex align-items-center">
-                                        {/* <div className="badge badge-secondary p-1 mr-2">20+</div> */}
+                                        <div className="badge badge-secondary p-1 mr-2">20+</div>
                                         <span className="text-white">2h 15m</span>
                                     </div>
                                 </div>
@@ -90,7 +90,7 @@ const MovieList = () => {
                 <Dropdown className="genres-box">
                     <Dropdown.Toggle as={Button} variant="secondary">
                         Genres
-                    {/* </Dropdown.Toggle>
+                    </Dropdown.Toggle>
                     <Dropdown.Menu className="three-column">
                         <Dropdown.Item href="#">Hindi</Dropdown.Item>
                         <Dropdown.Item href="#">Tamil</Dropdown.Item>
@@ -105,7 +105,7 @@ const MovieList = () => {
                         <Dropdown.Item href="#">Children & Family</Dropdown.Item>
                         <Dropdown.Item href="#">Award-Winning</Dropdown.Item>
                     </Dropdown.Menu>
-                </Dropdown> */}
+                </Dropdown>
             </section>
             <div className="main-content">
                 <section id="iq-favorites">

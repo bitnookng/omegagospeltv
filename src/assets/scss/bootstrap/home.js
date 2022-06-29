@@ -254,7 +254,7 @@ const Homepage =()=>{
                               </div>
                               <div className="trending-list" data-wp_object-in="fadeInUp" data-delay-in="1.2">
                                  <div className="text-primary title starring">
-                                    Starring: <span className="text-body">The Voice Of Truth, The Message Of Truth </span>
+                                    Starring: <span className="text-body">Truth On Air, The Message Of Truth </span>
                                  </div>
                                  <div className="text-primary title genres">
                                     Genres: <span className="text-body">The Gospel</span>

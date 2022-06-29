@@ -249,12 +249,12 @@ const Homepage =()=>{
                                     {/* <span className="badge badge-secondary p-2">Truth On Air </span> */}
                                     {/* <span className="ml-3">Sermons</span> */}
                                  {/* </div> */}
-                                 <p data-iq-gsap="onStart" data-iq-position-y="80" data-iq-delay="0.8"><h3>The voice of truth</h3>
+                                 <p data-iq-gsap="onStart" data-iq-position-y="80" data-iq-delay="0.8"><h3>Truth On Air</h3>
                                  </p>
                               </div>
                               <div className="trending-list" data-wp_object-in="fadeInUp" data-delay-in="1.2">
                                  <div className="text-primary title starring">
-                                    {/* Starring: <span className="text-body">The Voice Of Truth, The Message Of Truth </span> */}
+                                    {/* Starring: <span className="text-body">Truth On Air, The Message Of Truth </span> */}
                                  </div>
                                  <div className="text-primary title genres">
                                     {/* Genres: <span className="text-body">The Gospel</span> */}
@@ -330,7 +330,7 @@ const Homepage =()=>{
                               {/* </p> */}
                               <div className="trending-list" data-wp_object-in="fadeInUp" data-delay-in="1.2">
                                  <div className="text-primary title starring">
-                                    <span className="text-body"><h3>The Voice of truth</h3></span>
+                                    <span className="text-body"><h3>Truth On Air</h3></span>
                                  </div>
                                  <div className="text-primary title genres">
                                     {/* Genres: <span className="text-body">Action</span> */}
@@ -405,7 +405,7 @@ const Homepage =()=>{
                               {/* </p> */}
                               <div className="trending-list" data-wp_object-in="fadeInUp" data-delay-in="1.2">
                               <div className="text-primary title starring">
-                                 <span className="text-body"><h3>The voice of truth</h3></span>
+                                 <span className="text-body"><h3>Truth On Air</h3></span>
                               </div>
                               <div className="text-primary title genres">
                                  {/* Genres: <span className="text-body">Action</span> */}
