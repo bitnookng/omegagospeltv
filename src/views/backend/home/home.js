@@ -301,7 +301,7 @@ const Homepage =()=>{
                               <h1 className="slider-text big-title title text-uppercase" data-iq-gsap="onStart" data-iq-position-x="-200">Omega Gospel Tv</h1>
                               <div className="d-flex flex-wrap align-items-center animated" >
                                  <div className="slider-ratting d-flex align-items-center mr-4 mt-2 mt-md-3"  data-iq-gsap="onStart" data-iq-position-x="-200" data-iq-delay="-0.5">
-                                    <ul className="ratting-start p-0 m-0 list-inline text-primary d-flex align-items-center justify-content-left">
+                                    {/* <ul className="ratting-start p-0 m-0 list-inline text-primary d-flex align-items-center justify-content-left">
                                        <li>
                                           <i className="fa fa-star" aria-hidden="true"></i>
                                        </li>
@@ -317,7 +317,7 @@ const Homepage =()=>{
                                        <li>
                                           <i className="fa fa-star-half" aria-hidden="true"></i>
                                        </li>
-                                    </ul>
+                                    </ul> */}
                                     {/* <span className="text-white ml-2">4.7(lmdb)</span> */}
                                  </div>
                                  {/* <div className="d-flex align-items-center mt-2 mt-md-3" data-iq-gsap="onStart" data-iq-position-x="-200" data-iq-delay="-0.5"> */}
@@ -376,7 +376,7 @@ const Homepage =()=>{
                               <h1 className="slider-text big-title title text-uppercase" data-iq-gsap="onStart" data-iq-position-x="-200">Omega Gospel Tv</h1>
                               <div className="d-flex flex-wrap align-items-center">
                                  <div className="slider-ratting d-flex align-items-center mr-4 mt-2 mt-md-3"  data-iq-gsap="onStart" data-iq-position-x="-200" data-iq-delay="-0.5">
-                                    <ul className="ratting-start p-0 m-0 list-inline text-primary d-flex align-items-center justify-content-left">
+                                    {/* <ul className="ratting-start p-0 m-0 list-inline text-primary d-flex align-items-center justify-content-left">
                                        <li>
                                           <i className="fa fa-star" aria-hidden="true"></i>
                                        </li>
@@ -392,12 +392,12 @@ const Homepage =()=>{
                                        <li>
                                           <i className="fa fa-star-half" aria-hidden="true"></i>
                                        </li>
-                                    </ul>
+                                    </ul> */}
                                     {/* <span className="text-white ml-2">4.7(lmdb)</span> */}
                                  </div>
                                  <div className="d-flex align-items-center mt-2 mt-md-3" data-iq-gsap="onStart" data-iq-position-x="-200" data-iq-delay="-0.5">
                                     {/* <span className="badge badge-secondary p-2">20+</span> */}
-                                    <span className="ml-3">3h</span>
+                                    {/* <span className="ml-3">3h</span> */}
                                  </div>
                               </div>
                               {/* <p data-iq-gsap="onStart" data-iq-position-y="80" data-iq-delay="0.8">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard */}
@@ -514,7 +514,7 @@ const Homepage =()=>{
                                        <img src={fav2} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Destiny Ecounter</Link></h6>
+                                       {/* <h6 className="iq-title"><Link to="/show-details">Destiny Ecounter</Link></h6> */}
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           {/* <div className="badge badge-secondary p-1 mr-2">7+</div> */}
                                           {/* <span className="text-white">Messages</span> */}
@@ -554,7 +554,7 @@ const Homepage =()=>{
                                        <img src={fav3} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Turning Point Intl</Link></h6>
+                                       {/* <h6 className="iq-title"><Link to="/show-details">Turning Point Intl</Link></h6> */}
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           {/* <div className="badge badge-secondary p-1 mr-2">15+</div> */}
                                           {/* <span className="text-white">2h 30m</span> */}
@@ -595,7 +595,7 @@ const Homepage =()=>{
                                        <img src={fav4} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">700 Club</Link></h6>
+                                       {/* <h6 className="iq-title"><Link to="/show-details">700 Club</Link></h6> */}
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           {/* <div className="badge badge-secondary p-1 mr-2">18+</div> */}
                                           {/* <span className="text-white">Messages</span> */}
@@ -636,7 +636,7 @@ const Homepage =()=>{
                                        <img src={fav5} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Living by the answer</Link></h6>
+                                       {/* <h6 className="iq-title"><Link to="/show-details">Living by the answer</Link></h6> */}
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           {/* <div className="badge badge-secondary p-1 mr-2">10+</div> */}
                                           {/* <span className="text-white">1 Season</span> */}
@@ -710,7 +710,7 @@ const Homepage =()=>{
                                        <img src={upcoming1} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Living by the answer</Link></h6>
+                                       {/* <h6 className="iq-title"><Link to="/show-details">Living by the answer</Link></h6> */}
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           {/* <div className="badge badge-secondary p-1 mr-2">5+</div> */}
                                           {/* <span className="text-white">2h 30m</span> */}
@@ -750,7 +750,7 @@ const Homepage =()=>{
                                        <img src={upcoming2} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">700 Club</Link></h6>
+                                       {/* <h6 className="iq-title"><Link to="/show-details">700 Club</Link></h6> */}
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           {/* <div className="badge badge-secondary p-1 mr-2">22+</div> */}
                                           {/* <span className="text-white">2h 15m</span> */}
@@ -776,7 +776,7 @@ const Homepage =()=>{
                                           </li>
                                           <li>
                                              <span><i className="ri-heart-fill"></i></span>
-                                             <span className="count-box">19+</span>
+                                             {/* <span className="count-box">19+</span> */}
                                           </li>
                                           <li>
                                              <span><i className="ri-add-line"></i></span>
@@ -791,7 +791,7 @@ const Homepage =()=>{
                                        <img src={upcoming3} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"> <Link to="/show-details">Present truth</Link></h6>
+                                       {/* <h6 className="iq-title"> <Link to="/show-details">Present truth</Link></h6> */}
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           {/* <div className="badge badge-secondary p-1 mr-2">25+</div> */}
                                           {/* <span className="text-white">3h</span> */}
@@ -832,7 +832,7 @@ const Homepage =()=>{
                                           <img src={upcoming4} className="img-fluid" alt=""/>
                                        </div>
                                        <div className="block-description">
-                                          <h6 className="iq-title"><Link to="/show-details">TPI</Link></h6>
+                                          {/* <h6 className="iq-title"><Link to="/show-details">TPI</Link></h6> */}
                                           <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                              {/* <div className="badge badge-secondary p-1 mr-2">11+</div> */}
                                              {/* <span className="text-white">2h 45m</span> */}
@@ -873,7 +873,7 @@ const Homepage =()=>{
                                        <img src={upcoming5} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Wisdom Connect</Link></h6>
+                                       {/* <h6 className="iq-title"><Link to="/show-details">Wisdom Connect</Link></h6> */}
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           {/* <div className="badge badge-secondary p-1 mr-2">9+</div> */}
                                           {/* <span className="text-white">2h 30m</span> */}
@@ -1156,7 +1156,7 @@ const Homepage =()=>{
                               <img src={parallax4} className="img-fluid" alt="bailey"/>
                            </Link>
                            <div className="parallax-ratting d-flex align-items-center mt-3 mb-3">
-                              <ul className="ratting-start p-0 m-0 list-inline text-primary d-flex align-items-center justify-content-left">
+                              {/* <ul className="ratting-start p-0 m-0 list-inline text-primary d-flex align-items-center justify-content-left">
                                  <li>
                                     <Link to="#" className="text-primary">
                                        <i className="fa fa-star" aria-hidden="true"></i>
@@ -1182,12 +1182,12 @@ const Homepage =()=>{
                                        <i className="fa fa-star-half-o" aria-hidden="true"></i>
                                     </Link>
                                  </li>
-                              </ul>
-                              <span className="text-white ml-3">9.2 (lmdb)</span>
+                              </ul> */}
+                              {/* <span className="text-white ml-3">9.2 (lmdb)</span> */}
                            </div>
                            <div className="movie-time d-flex align-items-center mb-3 iq-ltr-direction">
-                              <div className="badge badge-secondary mr-3">13+</div>
-                              <h6 className="text-white">2h 30m</h6>
+                              {/* <div className="badge badge-secondary mr-3">13+</div>
+                              <h6 className="text-white">2h 30m</h6> */}
                            </div>
                            <p>The 700 Club is the flagship television program of the Christian Broadcasting Network, airing each weekday in syndication in the United States and available worldwide on CBN.com. The news magazine program features live guests, daily news, contemporary music, testimonies, and Christian ministry. Celebrities and other guests are often interviewed, and Christian lifestyle issues are presented. The program additionally features world news stories plus investigative reporting by the CBN News team.</p>
                            <div className="parallax-buttons">
@@ -4402,7 +4402,7 @@ const Homepage =()=>{
                                        <img src={tvthrillers1} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Present truth</Link></h6>
+                                       {/* <h6 className="iq-title"><Link to="/show-details">Present truth</Link></h6> */}
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           {/* <div className="badge badge-secondary p-1 mr-2">15+</div> */}
                                           {/* <span className="text-white">Messages</span> */}
@@ -4442,7 +4442,7 @@ const Homepage =()=>{
                                        <img src={tvthrillers2} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Wisdom connect</Link></h6>
+                                       {/* <h6 className="iq-title"><Link to="/show-details">Wisdom connect</Link></h6> */}
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           {/* <div className="badge badge-secondary p-1 mr-2">7+</div> */}
                                           {/* <span className="text-white">Messages</span> */}
@@ -4483,7 +4483,7 @@ const Homepage =()=>{
                                        <img src={tvthrillers3} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Destiny ecounter</Link></h6>
+                                       {/* <h6 className="iq-title"><Link to="/show-details">Destiny ecounter</Link></h6> */}
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           {/* <div className="badge badge-secondary p-1 mr-2">11+</div> */}
                                           {/* <span className="text-white">Messages</span> */}
@@ -4524,7 +4524,7 @@ const Homepage =()=>{
                                        <img src={tvthrillers4} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">TPi</Link></h6>
+                                       {/* <h6 className="iq-title"><Link to="/show-details">TPi</Link></h6> */}
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           {/* <div className="badge badge-secondary p-1 mr-2">18+</div> */}
                                           {/* <span className="text-white">Messages</span> */}
@@ -4565,7 +4565,7 @@ const Homepage =()=>{
                                        <img src={tvthrillers5} className="img-fluid" alt=""/>
                                     </div>
                                     <div className="block-description">
-                                       <h6 className="iq-title"><Link to="/show-details">Living by the water</Link></h6>
+                                       {/* <h6 className="iq-title"><Link to="/show-details">Living by the water</Link></h6> */}
                                        <div className="movie-time d-flex align-items-center my-2 iq-ltr-direction">
                                           {/* <div className="badge badge-secondary p-1 mr-2">17+</div> */}
                                           {/* <span className="text-white">1 Season</span> */}
