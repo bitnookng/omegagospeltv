@@ -226,7 +226,7 @@ const Homepage =()=>{
                               <h1 className="slider-text big-title title text-uppercase" data-iq-gsap="onStart" data-iq-position-x="-200">Omega Gospel TV</h1>
                               <div className="d-flex flex-wrap align-items-center">
                                  <div className="slider-ratting d-flex align-items-center mr-4 mt-2 mt-md-3" data-iq-gsap="onStart" data-iq-position-x="-200" data-iq-delay="-0.5">
-                                    <ul className="ratting-start p-0 m-0 list-inline text-primary d-flex align-items-center justify-content-left">
+                                    {/* <ul className="ratting-start p-0 m-0 list-inline text-primary d-flex align-items-center justify-content-left">
                                        <li>
                                           <i className="fa fa-star" aria-hidden="true"></i>
                                        </li>
@@ -242,7 +242,7 @@ const Homepage =()=>{
                                        <li>
                                           <i className="fa fa-star-half" aria-hidden="true"></i>
                                        </li>
-                                    </ul>
+                                    </ul> */}
                                     {/* <span className="text-white ml-2">4.7(lmdb)</span> */}
                                  </div>
                                  {/* <div className="d-flex align-items-center mt-2 mt-md-3" data-iq-gsap="onStart" data-iq-position-x="-200" data-iq-delay="-0.5"> */}
