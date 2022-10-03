@@ -106,7 +106,7 @@ const ShowList = () => {
                               </div>
                               <div className="epi-desc p-3">
                                  <div className="d-flex align-items-center justify-content-between">
-                                    <span className="text-white">Present Truth</span>
+                                    <span className="text-white">Living Waters</span>
                                     <span className="text-primary">30m</span>
                                  </div>
                                  <Link to="#">
@@ -129,11 +129,11 @@ const ShowList = () => {
                               </div>
                               <div className="epi-desc p-3">
                                  <div className="d-flex align-items-center justify-content-between">
-                                    <span className="text-white">11 Aug 20</span>
+                                    <span className="text-white">Wisdom Connect</span>
                                     <span className="text-primary">30m</span>
                                  </div>
                                  <Link to="#">
-                                    <h6 className="epi-name text-white mb-0">Lorem Ipsum is simply dummy text</h6>
+                                    <h6 className="epi-name text-white mb-0"></h6>
                                  </Link>
                               </div>
                            </div>
@@ -152,11 +152,11 @@ const ShowList = () => {
                               </div>
                               <div className="epi-desc p-3">
                                  <div className="d-flex align-items-center justify-content-between">
-                                    <span className="text-white">11 Aug 20</span>
+                                    <span className="text-white">700 Club</span>
                                     <span className="text-primary">30m</span>
                                  </div>
                                  <Link to="#">
-                                    <h6 className="epi-name text-white mb-0">Lorem Ipsum is simply dummy text</h6>
+                                    <h6 className="epi-name text-white mb-0">Details</h6>
                                  </Link>
                               </div>
                            </div>
@@ -175,16 +175,16 @@ const ShowList = () => {
                               </div>
                               <div className="epi-desc p-3">
                                  <div className="d-flex align-items-center justify-content-between">
-                                    <span className="text-white">11 Aug 20</span>
+                                    <span className="text-white">Destiny Ecounter</span>
                                     <span className="text-primary">30m</span>
                                  </div>
                                  <Link to="#">
-                                    <h6 className="epi-name text-white mb-0">Lorem Ipsum is simply dummy text</h6>
+                                    <h6 className="epi-name text-white mb-0">Details</h6>
                                  </Link>
                               </div>
                            </div>
                         </Col>
-                        <Col md="6" className="col-1-5 iq-mb-30">
+                        {/*<Col md="6" className="col-1-5 iq-mb-30">
                            <div className="epi-box">
                               <div className="epi-img position-relative">
                                  <img src={episode6} className="img-fluid img-zoom" alt=""/>
@@ -196,7 +196,7 @@ const ShowList = () => {
                                     </div>
                                  </div>
                               </div>
-                              <div className="epi-desc p-3">
+                             <div className="epi-desc p-3">
                                  <div className="d-flex align-items-center justify-content-between">
                                     <span className="text-white">11 Aug 20</span>
                                     <span className="text-primary">30m</span>
@@ -206,7 +206,7 @@ const ShowList = () => {
                                  </Link>
                               </div>
                            </div>
-                        </Col>
+   </Col>
                         <Col md="6" className="col-1-5 iq-mb-30">
                            <div className="epi-box">
                               <div className="epi-img position-relative">
@@ -298,7 +298,7 @@ const ShowList = () => {
                                  </Link>
                               </div>
                            </div>
-                        </Col>
+                        </Col>*/}
                      </Row>
                   </div>
                </Container>
