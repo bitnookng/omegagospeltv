@@ -30,13 +30,10 @@ const ShowList = () => {
                      <div className="trending-info season-info g-border">
                         <h4 className="trending-text big-title text-uppercase mt-0">Omega Gospel TV</h4>
                         <div className="d-flex align-items-center text-white text-detail episode-name mb-0">
-                           <span>S1E01</span>
-                           <span className="trending-year">Lorem Ipsum is dummy text</span>
+                           <span>Playing</span>
+                           <span className="trending-year">Details</span>
                         </div>
-                        <p className="trending-dec w-100 mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting
-                           industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an
-                           unknown printer took a galley of type and scrambled it to make a type specimen book. It has
-                           survived not only five centuries.
+                        <p className="trending-dec w-100 mb-0">Details
                         </p>
                         <ul className="list-inline p-0 mt-4 share-icons music-play-lists">
                            <li>
@@ -66,7 +63,7 @@ const ShowList = () => {
                      <Row>
                         <Col sm="12" className="overflow-hidden">
                            <div className="iq-main-header d-flex align-items-center justify-content-between">
-                              <h4 className="main-title">Latest Episodes</h4>
+                              <h4 className="main-title">Suggestion</h4>
                               <Link to="#" className="text-primary">View all</Link>
                            </div>
                         </Col>
@@ -86,11 +83,11 @@ const ShowList = () => {
                               </div>
                               <div className="epi-desc p-3">
                                  <div className="d-flex align-items-center justify-content-between">
-                                    <span className="text-white">11 Aug 20</span>
+                                    <span className="text-white">Turning Point Intl</span>
                                     <span className="text-primary">30m</span>
                                  </div>
                                  <Link to="#">
-                                    <h6 className="epi-name text-white mb-0">Lorem Ipsum is simply dummy text</h6>
+                                    <h6 className="epi-name text-white mb-0">Details</h6>
                                  </Link>
                               </div>
                            </div>
@@ -109,11 +106,11 @@ const ShowList = () => {
                               </div>
                               <div className="epi-desc p-3">
                                  <div className="d-flex align-items-center justify-content-between">
-                                    <span className="text-white">11 Aug 20</span>
+                                    <span className="text-white">Present Truth</span>
                                     <span className="text-primary">30m</span>
                                  </div>
                                  <Link to="#">
-                                    <h6 className="epi-name text-white mb-0">Lorem Ipsum is simply dummy text</h6>
+                                    <h6 className="epi-name text-white mb-0">Details</h6>
                                  </Link>
                               </div>
                            </div>
