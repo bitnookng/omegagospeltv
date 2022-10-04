@@ -15,7 +15,7 @@ const UserAccountSetting = () => {
                         <div className="sign-user_card text-center">
                            <img src={user} className="rounded-circle img-fluid d-block mx-auto mb-3" alt="user"/>
                            <h4 className="mb-3">John Doe</h4>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                           <p>details</p>
                            <Link to="#" className="edit-icon text-primary">Edit</Link>
                         </div>
                      </Col>

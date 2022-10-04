@@ -1188,7 +1188,7 @@ const Homepage =()=>{
                               <div className="badge badge-secondary mr-3">13+</div>
                               <h6 className="text-white">2h 30m</h6>
                            </div>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
+                           <p>details...</p>
                            <div className="parallax-buttons">
                               <Link to="/movie-details" className="btn btn-hover">Play Now</Link>
                               <Link to="/movie-details" className="btn btn-link">More details</Link>
@@ -1400,8 +1400,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">2.25 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                               details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -1421,8 +1420,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">3.23 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                               details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -1442,8 +1440,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">2 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details </p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -1459,11 +1456,11 @@ const Homepage =()=>{
                                                          </div>
                                                          <div className="episodes-description text-body ">
                                                             <div className="d-flex align-items-center justify-content-between">
-                                                               <Link to="#">Episode 4</Link>
+                                                               <Link to="#">Message</Link>
                                                                <span className="text-primary">1.12 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
+                                                              Details
                                                             </p>
                                                          </div>
                                                       </SwiperSlide>
@@ -1484,8 +1481,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">2.54 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                    </Swiper>
@@ -1531,12 +1527,11 @@ const Homepage =()=>{
                                                          </div>
                                                          <div className="episodes-description text-body">
                                                             <div className="d-flex align-items-center justify-content-between">
-                                                               <Link to="#" target="_blank">Trailer 1</Link>
+                                                               <Link to="#" target="_blank">Message</Link>
                                                                <span className="text-primary">2.25 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -1557,8 +1552,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">3.23 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -1579,8 +1573,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">2 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details </p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -1600,8 +1593,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">1.12 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -1621,8 +1613,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">2.54 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details </p>
                                                          </div>
                                                       </SwiperSlide>
                                                    </Swiper>
@@ -1674,8 +1665,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">2.25 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -1695,8 +1685,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">3.23 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -1716,8 +1705,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">2 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                             details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -1737,8 +1725,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">1.12 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -1758,8 +1745,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">2.54 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                    </Swiper>
@@ -1817,8 +1803,7 @@ const Homepage =()=>{
                                                    <span className="text-gold ml-3">#2 in Series Today</span>
                                                 </div>
                                                 <p className="trending-dec">
-                                                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
-                                                   dummy text ever since the 1500s.
+                                                  details
                                                 </p>
                                                 <div className="p-btns">
                                                    <div className="d-flex align-items-center p-0">
@@ -1921,8 +1906,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">3.23 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -1942,8 +1926,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">2 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -1963,8 +1946,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">1.12 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                               details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -2038,8 +2020,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">2.25 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -2059,8 +2040,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">3.23 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -2082,8 +2062,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">2 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                              details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
@@ -2128,8 +2107,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">2.54 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                               details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                    </Swiper>
@@ -2204,8 +2182,7 @@ const Homepage =()=>{
                                                                <span className="text-primary">3.23 m</span>
                                                             </div>
                                                             <p className="mb-0">
-                                                               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-                                                            </p>
+                                                               details</p>
                                                          </div>
                                                       </SwiperSlide>
                                                       <SwiperSlide className="e-item">
