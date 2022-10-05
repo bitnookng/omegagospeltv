@@ -35,7 +35,7 @@ const AddMovie = () => {
                     <section className="movie-detail container-fluid">
                         <Row>
                             <Col lg="12">
-                                <div className="trending-info g-border">
+                               {/*} <div className="trending-info g-border">
                                     <h1 className="trending-text big-title text-uppercase mt-0">The Illusion</h1>
                                     <ul className="p-0 list-inline d-flex align-items-center movie-content">
                                         <li className="text-white">Action</li>
@@ -75,7 +75,7 @@ const AddMovie = () => {
                                             </div>
                                         </li>
                                     </ul>
-                                </div>
+                                </div>*/}
                             </Col>
                         </Row>
                     </section>
