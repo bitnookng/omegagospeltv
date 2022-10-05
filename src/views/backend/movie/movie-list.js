@@ -113,7 +113,7 @@ const MovieList = () => {
                         <Row>
                             <Col sm="12" className="overflow-hidden">
                                 <div className="d-flex align-items-center justify-content-between">
-                                    <h4 className="main-title">Bollywood Blockbusters</h4>
+                                    <h4 className="main-title">Messages</h4>
                                 </div>
                                 <div id="favorites-contens">
                                     <div id="prev1" className="swiper-button swiper-button-prev"><i className= "fa fa-chevron-left"></i></div> 
@@ -360,7 +360,7 @@ const MovieList = () => {
                         <Row>
                             <Col sm="12" className="overflow-hidden">
                                 <div className="d-flex align-items-center justify-content-between">
-                                    <h4 className="main-title">Best Bengali Movies</h4>
+                                    <h4 className="main-title">Sermons</h4>
                                 </div>
                                 <div id="upcoming-contens">
                                     <div id="prev2" className="swiper-button swiper-button-prev"><i className= "fa fa-chevron-left"></i></div> 
@@ -606,7 +606,7 @@ const MovieList = () => {
                         <Row>
                             <Col sm="12" className="overflow-hidden">
                                 <div className="d-flex align-items-center justify-content-between">
-                                    <h4 className="main-title">Movies We Recommend</h4>
+                                    <h4 className="main-title">We Recommend</h4>
                                 </div>
                                 <div id="suggestede-contens">
                                     <div id="prev3" className="swiper-button swiper-button-prev"><i className= "fa fa-chevron-left"></i></div> 
